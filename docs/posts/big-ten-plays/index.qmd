@@ -3,7 +3,7 @@ title: "The NCAA Failed to Shift the Speed of CFB"
 author: "Sam Benning"
 date: '2024-10-07'
 categories: [football,offense,downs]
-image: "image.png"
+image: image.png
 format: 
   html:
     code-fold: true
